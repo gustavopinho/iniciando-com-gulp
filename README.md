@@ -11,8 +11,10 @@ Esse repositório contém os arquivos do post iniciando com gulp js
 
 # Executando o projeto
 
-Para produção
+Produção
+----------
 - $gulp
 
-Em desenvolvimento
+Desenvolvimento
+------------------
 - $gulp development
