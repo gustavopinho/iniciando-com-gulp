@@ -1,5 +1,6 @@
 # Iniciando com o Gulp
-Esse repositório contém os arquivos do post iniciando com gulp js
+
+O repositório contém o projeto do artigo **[Iniciando com Gulp](http://gustavopinho.com/blog/2017/02/12/iniciando-com-gupljs.html)**.
 
 # Instalando Dependências
 
