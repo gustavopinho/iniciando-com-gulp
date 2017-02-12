@@ -13,8 +13,8 @@ Esse repositório contém os arquivos do post iniciando com gulp js
 
 Produção
 ----------
-- $gulp
+- $ gulp
 
 Desenvolvimento
 ------------------
-- $gulp development
+- $ gulp development
